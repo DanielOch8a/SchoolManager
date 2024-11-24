@@ -1,0 +1,138 @@
+C:\Users\L-55\source\repos\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe.config
+C:\Users\L-55\source\repos\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe
+C:\Users\L-55\source\repos\SchoolManager\SchoolManager\bin\Debug\SchoolManager.pdb
+C:\Users\L-55\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csprojAssemblyReference.cache
+C:\Users\L-55\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Main.resources
+C:\Users\L-55\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_login.resources
+C:\Users\L-55\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.Properties.Resources.resources
+C:\Users\L-55\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.GenerateResource.cache
+C:\Users\L-55\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.CoreCompileInputs.cache
+C:\Users\L-55\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.exe
+C:\Users\L-55\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.pdb
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe.config
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\bin\Debug\SchoolManager.pdb
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Main.resources
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_login.resources
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.Properties.Resources.resources
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.exe
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.pdb
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Captura.resources
+C:\Users\danie\source\repos\SchoolManager\SchoolManager\obj\Debug\SchoolManager.uc_RadioBtns.resources
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe.config
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\bin\Debug\SchoolManager.pdb
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csprojAssemblyReference.cache
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Main.resources
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Captura.resources
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_login.resources
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.Properties.Resources.resources
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.uc_RadioBtns.resources
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.GenerateResource.cache
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.CoreCompileInputs.cache
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.exe
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.pdb
+C:\Users\L-55\Downloads\SchoolManager 1.1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.Consultar.resources
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe.config
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\bin\Debug\SchoolManager.pdb
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csprojAssemblyReference.cache
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Main.resources
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Captura.resources
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_login.resources
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\obj\Debug\SchoolManager.Properties.Resources.resources
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\obj\Debug\SchoolManager.uc_RadioBtns.resources
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.GenerateResource.cache
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\obj\Debug\SchoolManager.exe
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\obj\Debug\SchoolManager.pdb
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Alumnos.resources
+C:\Users\danie\Downloads\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Consultas.resources
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe.config
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\bin\Debug\SchoolManager.pdb
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csprojAssemblyReference.cache
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Alumnos.resources
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Consultas.resources
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Main.resources
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Captura.resources
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_login.resources
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.Properties.Resources.resources
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.uc_RadioBtns.resources
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.GenerateResource.cache
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.exe
+C:\Users\danie\Downloads\SchoolManager Vers\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.pdb
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe.config
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\bin\Debug\SchoolManager.pdb
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csprojAssemblyReference.cache
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Alumnos.resources
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Consultas.resources
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Main.resources
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Captura.resources
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_login.resources
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.Properties.Resources.resources
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.uc_RadioBtns.resources
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.GenerateResource.cache
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.CoreCompileInputs.cache
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.exe
+E:\Visual Studio\SchoolManager 1.4\SchoolManager Show normal\SchoolManager\SchoolManager\obj\Debug\SchoolManager.pdb
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe.config
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\bin\Debug\SchoolManager.exe
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\bin\Debug\SchoolManager.pdb
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csprojAssemblyReference.cache
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Alumnos.resources
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Consultas.resources
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Main.resources
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_Captura.resources
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.frm_login.resources
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.Properties.Resources.resources
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.uc_RadioBtns.resources
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.GenerateResource.cache
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.csproj.CoreCompileInputs.cache
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.exe
+E:\Portafolio Evidencia TAP\Unidad 1\Practica_U1\SchoolManager\SchoolManager\obj\Debug\SchoolManager.pdb
+E:\Pruebas\SchoolManagerDB\SchoolManager\bin\Debug\SchoolManager.exe.config
+E:\Pruebas\SchoolManagerDB\SchoolManager\bin\Debug\SchoolManager.exe
+E:\Pruebas\SchoolManagerDB\SchoolManager\bin\Debug\SchoolManager.pdb
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.csprojAssemblyReference.cache
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_AgregarAdmins.resources
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_Alumnos.resources
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_Consultas.resources
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_Main.resources
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_Captura.resources
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_login.resources
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_MainAdmins.resources
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.Properties.Resources.resources
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.uc_RadioBtns.resources
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.csproj.GenerateResource.cache
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.csproj.CoreCompileInputs.cache
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.exe
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.pdb
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_ConsultarAdmins.resources
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_ActualizarAdmins.resources
+E:\Pruebas\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_EliminarAdmins.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\bin\Debug\SchoolManager.exe.config
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\bin\Debug\SchoolManager.exe
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\bin\Debug\SchoolManager.pdb
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.csproj.AssemblyReference.cache
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_AgregarAdmins.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_ActualizarAdmins.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_Alumnos.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_ConsultarAdmins.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_Consultas.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_EliminarAdmins.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_Main.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_Captura.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_login.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.frm_MainAdmins.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.Properties.Resources.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.uc_RadioBtns.resources
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.csproj.GenerateResource.cache
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.csproj.CoreCompileInputs.cache
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.exe
+C:\Users\fdani\Downloads\SchoolManagerDB-20241123T234820Z-001\SchoolManagerDB\SchoolManager\obj\Debug\SchoolManager.pdb
